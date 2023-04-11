@@ -1,0 +1,7 @@
+/.vscode
+/uploads
+/venv
+/__pycache__
+/Inception_Model.h5
+/ResNet_Model.h5
+/archive.zip

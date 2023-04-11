@@ -1,0 +1,4 @@
+outs:
+- md5: b06f1838b218357a90417c0883b6c911
+  size: 94270920
+  path: Inception_Model.h5
