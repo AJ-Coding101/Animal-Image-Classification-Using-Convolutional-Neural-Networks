@@ -2,3 +2,6 @@
     remote = origin
 ['remote "origin"']
     url = gdrive://1cYGsOkejFhErWtg_L5d03cxQ-K9Z-iHl
+['remote "dagshub"']
+    url = https://dagshub.com/AJ-Coding101/Animal-Image-Classification-Using-Convolutional-Neural-Networks.dvc
+    read_timeout = 0
